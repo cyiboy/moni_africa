@@ -4,7 +4,7 @@ Moni task UI and API integration for Flutter Mobile Engineer position.
 
 ## Screenshots
 
-![Splah Screen](Simulator Screen Shot - iPhone 12 Pro Max - 2022-04-26 at 22.57.35.png)
+![Splah Screen](https://github.com/cyiboy/moni_africa/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2012%20Pro%20Max%20-%202022-04-26%20at%2022.57.35.png)
 
 ## Brief Description
 
