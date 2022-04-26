@@ -19,7 +19,6 @@ Uses MVVM architecture
 
 ## Fonts
 - DMSans
-- Inter
 
 
 
