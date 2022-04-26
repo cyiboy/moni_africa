@@ -1,17 +1,38 @@
-# moni_africa
+# Flutter Mobile Engineer Task
 
-A new Flutter application.
+Moni task UI and API integration for Flutter Mobile Engineer position.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Splah Screen](Simulator Screen Shot - iPhone 12 Pro Max - 2022-04-26 at 22.57.35.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Brief Description
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The "My Cluster" screen's UI and API implementation. The details of a cluster are displayed on this page. There are two tabviews in it (members and cluster details). The "Members" tabview displays a list of cluster members as well as their loan status, whereas the "Cluster Details" tabview displays cluster details.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# moni_africa
+Uses MVVM architecture
+
+
+## APK DOWNLOAD
+[Download](https://github.com/cyiboy/moni_africa/blob/main/flutter-apk/app-release.apk)
+
+
+## Fonts
+- DMSans
+- Inter
+
+
+
+## Packages
+- get
+- http
+- flutter_svg
+
+## Design parten
+[getx_pattern](https://github.com/kauemurakami/getx_pattern)
+ 
+
+
+
+
+
